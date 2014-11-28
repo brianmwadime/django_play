@@ -1,0 +1,5 @@
+/venv/*
+db.sqlite3
+DjangoTutorial.sublime-project
+Procfile
+runtime.txt
