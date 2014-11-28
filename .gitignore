@@ -1,5 +1,6 @@
 /venv/*
 db.sqlite3
 DjangoTutorial.sublime-project
+DjangoTutorial.sublime-workspace
 Procfile
 runtime.txt
